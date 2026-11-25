@@ -1,5 +1,5 @@
-public class Main {
+public class main {
     public static void main(String[] args) {
-        System.out.println("Java version: " + System.getProperty("java.version"));
+        System.out.println("Java version");
     }
 }
